@@ -1,0 +1,11 @@
+M=int(input("enter frst  number")) 
+N=int(input("enter second number")) 
+O=input("enter a operation")
+if(c=="addition"):
+ Print("addition is", m+n)
+elif(c=="subtraction"):
+ Print("subtraction is", m-n) 
+elif(c=="division"):
+ Print("division is", m/n) 
+else:
+ Print("multiplication is", m*n)
